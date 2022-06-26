@@ -4,7 +4,7 @@
  */
 const config = {
   appId: 'com.example.myapp',
-  productName: "Picture Keeper",
+  productName: "My App",
   win: {
     executableName: 'MyApp',
   },
